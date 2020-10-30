@@ -2,4 +2,4 @@
 * [Min stickman](stickman/)
 * [Bold](bold/)
 * [Logisk operator](logiskoperator/)
-* [Logisk operator V2](logiskoperatorV2)
+* [Logisk operator V2](logiskoperator2)
