@@ -4,3 +4,4 @@
 * [Logisk operator V2](logiskoperator2)
 * [Parabel](Parabel)
 * [Mange Bolde](mangebolde)
+* [Mange Bolde Med Classes](mangeboldeclasses)
